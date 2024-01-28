@@ -1,0 +1,92 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-01-27 19:33+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: src/handlers/user/kb.py:23
+msgid "🚨 ПОДПИСАТЬСЯ НА КАНАЛ 🚨"
+msgstr ""
+
+#: src/handlers/user/kb.py:24
+msgid "🤖 ПОЛУЧИТЬ СИГНАЛЫ 🤖"
+msgstr ""
+
+#: src/handlers/user/kb.py:29
+msgid "▶ ПОЛУЧИТЬ СИГНАЛ ▶"
+msgstr ""
+
+#: src/handlers/user/kb.py:34
+msgid "СЛЕДУЮЩИЙ РАУНД ➡"
+msgstr ""
+
+#: src/handlers/user/messages.py:17
+msgid ""
+"<b>Приветствую тебя, {user_name}!</b> \n"
+"\n"
+"<i>Что бы получить доступ к сигналам, <b>перейдите в канал по кнопке ниже"
+" и получите более подробную информацию 🔉</b></i> \n"
+"\n"
+"🔐 Если у вас есть кодовое слово для активации бота, то нажмите кнопку "
+"<b>«ПОЛУЧИТЬ СИГНАЛЫ»</b>"
+msgstr ""
+
+#: src/handlers/user/messages.py:31
+msgid ""
+"ID: {onewin_id} \n"
+"🚀 ВЫВОДИ НА: <b>{coefficient}</b>"
+msgstr ""
+
+#: src/handlers/user/messages.py:36
+msgid "✍ Введите «кодовое слово», которое вам выдали:"
+msgstr ""
+
+#: src/handlers/user/messages.py:40
+msgid ""
+"❗<b>Вы ввели неправильное кодовое слово!</b> \n"
+"Попробуйте ещё раз:"
+msgstr ""
+
+#: src/handlers/user/messages.py:44
+msgid ""
+"Замечательно! \n"
+"Теперь введите 🆔 от вашего аккаунта 1win: "
+msgstr ""
+
+#: src/handlers/user/messages.py:48
+msgid ""
+"❗<b>ID не может содержать букв и символов, только цифры!</b> \n"
+"Попробуйте ещё раз:"
+msgstr ""
+
+#: src/handlers/user/messages.py:52
+msgid ""
+"❗<b>ID должно иметь длину в 8 цифр</b> \n"
+"Попробуйте снова:"
+msgstr ""
+
+#: src/handlers/user/messages.py:56
+msgid ""
+"Перед тем как, начать ⤵️\n"
+"\n"
+"Минимальная сумма депозита в игре с ботом <b>500-1000₽</b> либо "
+"<b>5-15$</b> \n"
+"\n"
+"Если вдруг бот выдает не верные коэффициенты, скорее всего ваш аккаунт "
+"<b>не активирован</b>. \n"
+"Нужно сделать депозит еще раз, чтобы ваш аккаунт активировался❗"
+msgstr ""
+
